@@ -1,0 +1,16 @@
+#VS directories
+.vs/
+CodeDB/
+VisualGDB/
+VisualGDBCache/
+
+juk.sln
+*.vgdbcmake
+*.user
+*last.log
+*UserConfig.txt
+git_upd
+
+#build directories
+bin/
+build/
